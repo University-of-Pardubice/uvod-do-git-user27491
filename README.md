@@ -3,10 +3,10 @@
 
 
 ## Tabulka
-| Left columns | Right columns |
-| co by mohlo byt tady|a tady ?|
-| left foo | right foo|
-| left bar | right bar|
-| left baz | right! to opravdu netusim|
-
-|Stehlík Robert | to snad zvládnul|
+| Left columns  | Right columns |
+| ------------- |:-------------:|
+| left foo      | right foo     |
+| left bar      | right bar     |
+| left baz      | right baz     |
+ bez prace nejsou kolace
+Stehlík Robert
